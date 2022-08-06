@@ -4,8 +4,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Rauane</h1>
 <p align = "justify">Front End Student, Coffee Lover, Javascript and Poetry.</p>
 
-I am currently a web development student.
-I'm currently learning more about **JavaScript and TypeScript**
+I am currently a web development student. Learning more about **JavaScript and TypeScript**
 
 
 
