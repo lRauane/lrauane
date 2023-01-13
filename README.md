@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Rauane</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
+<h3 align="center">Developer front end in Brazil</h3>
 
 - 🌱 Atualmente estou aprendendo **React**
 
