@@ -7,7 +7,7 @@
 
 - 📫 Como chegar até mim **rauanelima7@gmail. com**
 
-- ⚡ Curiosidade **Além de desenvolvedor, sou poeta e cafeicultor.**
+- ⚡ Curiosidade **Além de desenvolvedor, sou escritora.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left" >
