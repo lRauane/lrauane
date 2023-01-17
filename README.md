@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo **React**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://portfolio-rauanel.netlify.app/](https://portfolio-rauanel.netlify.app/)
-
+- 
 - 📫 Como chegar até mim **rauanelima7@gmail. com**
 
 - ⚡ Curiosidade **Além de desenvolvedor, sou escritora.**
