@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rauanelima7@gmail.com**
 
-- ⚡ Fun fact **In addition to being a developer, I am a poet and a coffee keeper.**
+- ⚡ Fun fact **In addition to being a developer, I'm a writer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
