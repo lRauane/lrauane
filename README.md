@@ -7,9 +7,6 @@
 
 - 💬 Pergunte-me sobre: **React**
 
-- 📫 Como chegar até mim: **rauanelima7@gmail.com**
-
-- ⚡ Fatos sobre mim: **Além de desenvolvedora, sou poeta e gosto de fotografia.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
