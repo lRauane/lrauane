@@ -1,9 +1,12 @@
-# Olá, meu nome é Rauane Lima! 👋
+# 👋 Olá, meu nome é Rauane Lima!
 
+- 📍 Aracaju, SE  
+- 💻 Desenvolvedora Full-stack  
+- 🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na UNINTER
 
-- 📌 Aracaju, SE
-- :computer: Desenvolvedora Full-stack.
-- 🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER)
+## 📫 Entre em contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rauanee)](https://www.linkedin.com/in/rauanee/)
 
 
 ## ⚡ Experiência
@@ -13,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧩 Front-End
+### 🎨 Front-End
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
@@ -42,8 +45,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
 
+## 📊 Estatísticas GitHub
 
-## 📫 Entre em contato:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rauanee)](https://www.linkedin.com/in/rauanee/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lrauane&show_icons=true&theme=radical&hide=prs" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrauane&layout=compact&theme=radical" width="30%" />
+  <img src="https://streak-stats.demolab.com?user=lrauane&theme=radical&hide_border=false" width="30%" />
+</div>
