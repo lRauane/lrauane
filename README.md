@@ -2,7 +2,7 @@
 
 - 📍 Aracaju, SE  
 - 💻 Desenvolvedora Full-stack  
-- 🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na UNINTER
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas
 
 ## 📫 Entre em contato
 
