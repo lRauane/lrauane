@@ -2,7 +2,7 @@
 
 - 📍 Aracaju, SE  
 - 💻 Desenvolvedora Full-stack  
-- 🎓 Técnologa em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 
 ## 📫 Entre em contato
 
